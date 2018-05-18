@@ -1,0 +1,16 @@
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\bin\Debug\PuddinCoEmployees.exe.config
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\bin\Debug\PuddinCoEmployees.exe
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\bin\Debug\PuddinCoEmployees.pdb
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\bin\Debug\MetroFramework.Design.dll
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\bin\Debug\MetroFramework.dll
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\bin\Debug\MetroFramework.Fonts.dll
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\obj\Debug\PuddinCoEmployees.csprojResolveAssemblyReference.cache
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\obj\Debug\PuddinCoEmployees.Properties.Resources.resources
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\obj\Debug\PuddinCoEmployees.csproj.GenerateResource.Cache
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\obj\Debug\PuddinCoEmployees.csproj.CoreCompileInputs.cache
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\obj\Debug\PuddinCoEmployees.exe
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\obj\Debug\PuddinCoEmployees.pdb
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\obj\Debug\PuddinCoEmployees.Form_Login.resources
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\obj\Debug\PuddinCoEmployees.Home_Form.resources
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\obj\Debug\PuddinCoEmployees.Manage_Form.resources
+C:\schooldata\semester3\BusinessApps\Final_Project_02\PuddinCoEmployees\PuddinCoEmployees\obj\Debug\PuddinCoEmployees.Credits_Form.resources
